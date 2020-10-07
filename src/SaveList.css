@@ -1,0 +1,11 @@
+.ListItems {
+  padding: 10px;
+  margin: 10px;
+  background-color: darkkhaki;
+  color: black;
+  font-family: cursive;
+}
+
+.ListItems > li {
+  list-style-type: none;
+}
